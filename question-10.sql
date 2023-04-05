@@ -1,0 +1,1 @@
+insert into persons (first_name, last_name, email, gender, title, age, address, city, state, postalcode, phone) values("Ziyu", "Lin", "zlin22@uw.edu", "Female", "Ms", 20, "4009 12th Ave Ne Way", "Seattle", "Washington", "12345", "208-288-0518");
